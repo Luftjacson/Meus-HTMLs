@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<head>
-       <title>Título da Página</title>
-</head>
-<body>
-    <h1>🏷️ TÍTULO PRINCIPAL DO SITE</h1>
-    <img src="imagem.jpg" alt="Descrição da Imagem">
-    <p>✍️ Este é um parágrafo explicativo com informações importantes para o visitante do site.</p>
-    <a href="https://www.exemplo.com">🔗 Clique aqui para acessar outro conteúdo</a>
-</body>
-</html>
+
